@@ -13,7 +13,7 @@ function Sidebar() {
 
         <ui className='uiContainer'>
           <hr></hr><h5>Menu</h5><hr></hr>
-          <Link to={"/"} style={{textDecoration:"none", color:"white"}}>
+          <Link to={"/home"} style={{textDecoration:"none", color:"white"}}>
             <li className='liContainer' >
               <i class="bi bi-house-door-fill "></i>
               <p>Home</p>

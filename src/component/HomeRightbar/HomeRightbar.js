@@ -432,6 +432,58 @@ function HomeRightbar() {
             </div>
           </div>
         </div>
+        <div className="row mt-4">
+          <div className="col-12">
+            <div className="itemContainer4">
+              <div className='seitemsTitle'>
+                <h5>Top Performance Employees</h5>
+              </div>
+              <div className="itemContainerList">
+                <div className="itemContainerListItem">
+                  <img src="img/1.jpg" alt="" />
+                  <h5>Ajae Sno</h5>
+                  <p>90%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/2.jpg" alt="" />
+                  <h5>Arya Stark</h5>
+                  <p>82%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/3.jpg" alt="" />
+                  <h5>Robert Aj</h5>
+                  <p>80%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/4.jpg" alt="" />
+                  <h5>Bolton Ramy</h5>
+                  <p>79%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/5.jpg" alt="" />
+                  <h5>Catty Tuly</h5>
+                  <p>73%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/6.jpg" alt="" />
+                  <h5>Jorah Mok</h5>
+                  <p>71%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/7.jpg" alt="" />
+                  <h5>Olena Gray</h5>
+                  <p>67%</p>
+                </div>
+                <div className="itemContainerListItem">
+                  <img src="img/8.jpg" alt="" />
+                  <h5>Zara Leo</h5>
+                  <p>90%</p>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )

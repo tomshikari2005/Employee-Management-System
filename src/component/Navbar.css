@@ -5,6 +5,7 @@
     padding:8px 6px 4px;
     background-color: #1c1a25;
     color: white;
+    
 }
 .dashboardItemsContainer{
     display: flex;
@@ -59,8 +60,6 @@
     width: 25px;
     height: 25px;
     border-radius: 20px;
-    
-    
 }
 .profileItems p{
     padding-top: 14px;

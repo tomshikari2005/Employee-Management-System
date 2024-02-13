@@ -1,8 +1,10 @@
 .mainSidebar{
     flex: 0.7;
-    height: 100vh;
+    height: 122vh;
     background-color:#1c1a25;
     color: white;
+    
+    /*  */
     
 }
 .adminContainer{
